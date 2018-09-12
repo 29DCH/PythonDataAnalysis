@@ -1,0 +1,37 @@
+技能学习网站推荐
+
+
+SQL
+https://www.w3cschool.cn/sql/
+
+数学
+http://www.madio.net/forum.php
+
+微积分
+http://open.163.com/special/Khan/precalculus.html
+http://open.163.com/movie/2018/1/5/K/MD6N3N9A5_MD6N3PJ5K.html
+
+数学建模学习
+http://www.mathsccnu.com/forum.php
+
+
+常用模型选择和学习
+http://scikit-learn.org/stable/
+
+python语法基础预习
+https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+啄木鸟社区
+https://woodpecker.org.cn/
+python中文开发者社区
+http://www.pythontab.com/
+
+github
+https://github.com/xirong/my-git/blob/master/how-to-use-github.md
+
+机器学习
+http://mooc.study.163.com/smartSpec/detail/1001319001.htm
+https://www.csie.ntu.edu.tw/~htlin/mooc/   需翻墙
+
+
+欢迎加入数据团学社6群 710527421深度交流
+如需了解课程，欢迎点击：http://163.lu/lvz3q0
